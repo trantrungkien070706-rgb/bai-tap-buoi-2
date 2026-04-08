@@ -1,1 +1,1 @@
-# bai-tap-buoi-2
+Bài thực hành buổi 2 - Họ tên: Trần Trung Kiên
